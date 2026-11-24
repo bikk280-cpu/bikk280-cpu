@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kraiwich 👋
 
-<!--
-**bikk280-cpu/bikk280-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Software Developer · Web applications & AI**
 
-Here are some ideas to get you started:
+I study Artificial Intelligence at Khon Kaen University. I build applications for everyday problems, improve them through user feedback, and explore OCR and Thai NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+
+| Project | What I worked on | Stack / focus |
+| :--- | :--- | :--- |
+| [Sun Ha Eat](https://github.com/bikk280-cpu/sun-ha-eat) | LINE chatbot for restaurant search and random meal suggestions around KKU. Map links, with menus and approximate prices when matched to project data. | JavaScript · LINE Messaging API · Google Places · Cloudflare Workers |
+| [Basketqueue](https://github.com/bikk280-cpu/Basketqueue) | Basketball team rotation and queues; improved undo, reordering, reset confirmation and QR transfer based on player feedback. | React 18 · Vite · QR Code |
+| **MyMoney** | Income and expense tracking; experimented with OCR to extract details from payment slips. | Web development · OCR |
+| **Sila Municipality Chatbot** | Primary responsibility: mobile and desktop UX/UI for municipal services. Learned how the team used RAG, Supabase and Railway. | UX/UI · Team collaboration |
+| **Thai Hate Speech Detection** | Compared single-text and sentence-pair training on 5,200 Thai texts. Research reported mBERT macro-F1 of 0.86 → 0.94. | Python · NLP · mBERT |
+
+### Skills
+
+JavaScript · React · HTML/CSS · Python · PHP · SQL · Git/GitHub · AI Prompting
+
+### Teaching
+
+**Teaching Assistant — Workshop 3, Khon Kaen University**  
+Helped students debug code, understand assignments, and checked submissions against requirements.
