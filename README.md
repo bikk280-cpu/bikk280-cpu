@@ -21,8 +21,3 @@ I study Artificial Intelligence at Khon Kaen University. I build applications fo
 ### Skills
 
 JavaScript · React · HTML/CSS · Python · PHP · SQL · Git/GitHub · AI Prompting
-
-### Teaching
-
-**Teaching Assistant — Workshop 3, Khon Kaen University**  
-Helped students debug code, understand assignments, and checked submissions against requirements.
