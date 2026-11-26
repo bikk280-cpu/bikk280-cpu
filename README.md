@@ -1,4 +1,4 @@
-# Hi, I'm Kraiwich 👋
+# Hi, I'm Kraiwich 
 
 **Junior Software Developer · Web applications & AI**
 
